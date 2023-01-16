@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcf7219bab7fe46a1ad266029b2fee19, type: 3}
+  m_Name: Readme
+  m_EditorClassIdentifier: 
+  icon: {fileID: 2800000, guid: 5124627469e3c2a4a8c829e79716adde, type: 3}
+  title: Green House Simulator
+  sections:
+  - heading: Welcome to the Green House Simulator Project
+    text: Hello and welcome to the GreenHouse Simulator Project. If this is your first time here please do make sure to read this Readme file for more information.
+    linkText: 
+    url:
+  - heading: Auto Save Feature
+    text: Since Unity has still not gotten the wisdom to build an auto save feature, please be aware we have an auto-save feature in the project that saves the project every 5 minutes, Which I believe is a fair amount of time interval for saves. If you feel the save intervals are too far apart please update accordingly using the AutoSave Config file in the root directory of the project and let me know when you do.
+    linkText:
+    url: 
+  - heading: XR Oculus Rig / FPS Controller
+    text: A FPS controller Prefab which also doubles as an XR Rig is in the scene caleed "PlayerController" and can be found in the "Prefabs" folder in the Project files. All you need to do is to drop it into any scene you are working in that you want to test and it workks like magic. I could not get the API for detecting if a headset is currently running for Oculus unfortunately, apparently SteamVR has an API for that but we are not using SteamVR so :(. My primitive solution was to use a simple boolean to determine which camera to use, The default is for the FPS controller so you dont have to do anything there. Currently just a bare bones implementation for both the FPS controller and XR Rig, more updates will be made to it.
+    linkText:
+    url:
+  - heading: Updates to Spatializer Plug-in
+    text: When the prompt comes on your screen(and it will multiple times) please just click "Upgrade" and be free.
+    linkText:
+    url:
+  - heading: What's next?
+    text: You can start working and editing this base scene or you can create a new scene, its up to you.
+    linkText:
+    url:
+  loadedLayout: 1
