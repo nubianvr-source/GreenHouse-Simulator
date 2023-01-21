@@ -5,6 +5,36 @@ ModelImporter:
   internalIDToNameTable: []
   externalObjects:
   - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal
+    second: {fileID: 2100000, guid: ab024028d8712ac449824601511a212c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal green
+    second: {fileID: 2100000, guid: 93d1feb1b5d0f374388f8ac0ddb04bdf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal red
+    second: {fileID: 2100000, guid: a5a70d200f3850e489c6a78c04ee2099, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sand
+    second: {fileID: 2100000, guid: 434237c15e9db1648a57f74173f44066, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: transparent mesh
+    second: {fileID: 2100000, guid: 0ea6d7a9038e9804685d767a69b0f5f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood
+    second: {fileID: 2100000, guid: e709963ca512a444bb0c3ba5ee402d79, type: 2}
+  - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: red_laterite_soil_stones_diff_2k
