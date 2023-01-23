@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.6110363, g: 0.6290865, b: 0.685412, a: 1}
+  m_IndirectSpecularColor: {r: 0.81560665, g: 0.8257202, b: 0.8567955, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -256,76 +256,7 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-<<<<<<< Updated upstream
     - target: {fileID: -7511558181221131132, guid: 8b1a2144732514e4ba3d58f07ce31d67,
-=======
-    - target: {fileID: -8153468022190502949, guid: 3605fc03e8fc2a7499b5499d3840fc93,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
-    - target: {fileID: -8143710011712545758, guid: 3605fc03e8fc2a7499b5499d3840fc93,
-        type: 3}
-      propertyPath: m_CastShadows
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -7664728788398519507, guid: 3605fc03e8fc2a7499b5499d3840fc93,
-        type: 3}
-      propertyPath: m_CastShadows
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -7640558969779515294, guid: 3605fc03e8fc2a7499b5499d3840fc93,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
-    - target: {fileID: -7146521406498821007, guid: 3605fc03e8fc2a7499b5499d3840fc93,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
-    - target: {fileID: -7029948723529949830, guid: 3605fc03e8fc2a7499b5499d3840fc93,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
-    - target: {fileID: -6763858364670572316, guid: 3605fc03e8fc2a7499b5499d3840fc93,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
-    - target: {fileID: -5794188704588266463, guid: 3605fc03e8fc2a7499b5499d3840fc93,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
-    - target: {fileID: -3756473180518285571, guid: 3605fc03e8fc2a7499b5499d3840fc93,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
-    - target: {fileID: -2045257923548263128, guid: 3605fc03e8fc2a7499b5499d3840fc93,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
-    - target: {fileID: -1063203228461421988, guid: 3605fc03e8fc2a7499b5499d3840fc93,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
-    - target: {fileID: -516098083770646512, guid: 3605fc03e8fc2a7499b5499d3840fc93,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
-    - target: {fileID: 50754954277266222, guid: 3605fc03e8fc2a7499b5499d3840fc93,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 2147483647
-      objectReference: {fileID: 0}
-    - target: {fileID: 281855664364225751, guid: 3605fc03e8fc2a7499b5499d3840fc93,
->>>>>>> Stashed changes
         type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
@@ -766,7 +697,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-<<<<<<< Updated upstream
 --- !u!64 &660808874
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -782,21 +712,6 @@ MeshCollider:
   m_CookingOptions: 30
   m_Mesh: {fileID: -5053925668127403250, guid: 31e183a8bd364ac489298ac01e16eaec, type: 3}
 --- !u!64 &691549172
-=======
---- !u!114 &627050807 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 269353138743794658, guid: 8259ae80c093eb84dac19e195168e10f,
-    type: 3}
-  m_PrefabInstance: {fileID: 8661323081837521927}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9413d460e98076241a1f46c91201217d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!64 &659101568
->>>>>>> Stashed changes
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -809,25 +724,8 @@ MeshCollider:
   serializedVersion: 4
   m_Convex: 0
   m_CookingOptions: 30
-<<<<<<< Updated upstream
   m_Mesh: {fileID: -7196802604745430461, guid: 31e183a8bd364ac489298ac01e16eaec, type: 3}
 --- !u!64 &759119352
-=======
-  m_Mesh: {fileID: 8552134717624371188, guid: 3605fc03e8fc2a7499b5499d3840fc93, type: 3}
---- !u!114 &673439312 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 5714089158428821487, guid: 8259ae80c093eb84dac19e195168e10f,
-    type: 3}
-  m_PrefabInstance: {fileID: 8661323081837521927}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9413d460e98076241a1f46c91201217d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!64 &699580880
->>>>>>> Stashed changes
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -5054,41 +4952,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 3218932175682159630, guid: 8259ae80c093eb84dac19e195168e10f,
-        type: 3}
-      propertyPath: _trackingOriginType
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5519135039683682181, guid: 8259ae80c093eb84dac19e195168e10f,
-        type: 3}
-      propertyPath: m_Height
-      value: 2.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 5519135039683682186, guid: 8259ae80c093eb84dac19e195168e10f,
-        type: 3}
-      propertyPath: m_Interpolate
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5519135039683682187, guid: 8259ae80c093eb84dac19e195168e10f,
-        type: 3}
-      propertyPath: handLeft
-      value: 
-      objectReference: {fileID: 627050807}
-    - target: {fileID: 5519135039683682187, guid: 8259ae80c093eb84dac19e195168e10f,
-        type: 3}
-      propertyPath: handRight
-      value: 
-      objectReference: {fileID: 673439312}
-    - target: {fileID: 5735923792331611331, guid: 8259ae80c093eb84dac19e195168e10f,
-        type: 3}
-      propertyPath: turnAxis
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 8661323082741844626, guid: 8259ae80c093eb84dac19e195168e10f,
-        type: 3}
-      propertyPath: shouldRunWithXrRig
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 8661323082741844627, guid: 8259ae80c093eb84dac19e195168e10f,
         type: 3}
       propertyPath: m_RootOrder
