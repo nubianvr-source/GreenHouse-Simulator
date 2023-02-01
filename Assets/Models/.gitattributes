@@ -1,0 +1,2 @@
+*.fbx filter=lfs diff=lfs merge=lfs -text
+*.green[[:space:]]house[[:space:]]modular4 filter=lfs diff=lfs merge=lfs -text
